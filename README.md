@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Sonam Tamang a frontend developer who love to work with frontend technology to develope beautiful and intuitive frontend design.
+
 <!--
 **SonamTamang90/SonamTamang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
