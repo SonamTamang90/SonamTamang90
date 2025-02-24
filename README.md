@@ -3,8 +3,8 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
 
 ### Connect with me:
 <p align="left" dir="auto">
-  <a href="https://x.com/SonamTamang90" rel="nofollow">
-  <img alt="X (Twitter) followers" title="Follow on X (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/your-twitter-handle?color=black&labelColor=141414&logo=x&logoColor=white&style=for-the-badge"/>
+ <a href="https://x.com/SonamTamang90" rel="nofollow">
+  <img alt="X (Twitter) followers" title="X/Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/SonamTamang90?color=black&labelColor=141414&logo=x&logoColor=white&style=for-the-badge"/>
 </a>
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/babd7dbe741d486120239fc098be2e415c4db13c31d12a6a00b3814351f6bde5/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
