@@ -4,7 +4,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
 ### Connect with me:
 <p align="left" dir="auto">
 <a href="https://x.com/SonamTamang90" rel="nofollow">
-  <img alt="X/Twitter" title="X/Twitter" src="https://custom-icon-badges.demolab.com/badge/-X/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=141414"/>
+  <img alt="X/Twitter" title="X/Twitter" src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
  <a href="https://www.linkedin.com/in/sonamtamang1" rel="nofollow">
   <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
