@@ -11,7 +11,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
 </a>
    </p>
    
-# 🔒 Languages and Tools
+### 🔒 Languages and Tools
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/>&nbsp;&nbsp;
