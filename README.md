@@ -1,7 +1,7 @@
 ## 🚀 Frontend Developer
 I'm Sonam Tamang, a creative front-end developer focused on building engaging user interfaces and modern websites with precision and attention to detail.
 
-# Connect with me:
+### Connect with me:
 
 Here are some ideas to get you started:
 
