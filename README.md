@@ -1,5 +1,5 @@
 ## 🚀 Frontend Developer
-I'm Sonam Tamang, a creative frontend developer focused on building engaging user interfaces and modern websites with precision and attention to detail.
+I'm Sonam Tamang, a creative front-end developer focused on building engaging user interfaces and modern websites with precision and attention to detail.
 <!--
 **SonamTamang90/SonamTamang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
