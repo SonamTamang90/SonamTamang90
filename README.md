@@ -6,8 +6,8 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
  <a href="https://x.com/SonamTamang90" rel="nofollow">
   <img alt="X (Twitter) followers" title="X/Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/SonamTamang90?color=black&labelColor=141414&logo=x&logoColor=white&style=for-the-badge"/>
 </a>
-    <a href="https://linkedin.com/in/your-linkedin-username" rel="nofollow">
-  <img alt="LinkedIn connections" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0069a1"/>
+ <a href="https://www.linkedin.com/in/sonamtamang1" rel="nofollow">
+  <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
    </p>
 
