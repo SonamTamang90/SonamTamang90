@@ -25,7 +25,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="30" height="30" alt="Supabase"/>
 </div>
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on side projects.
