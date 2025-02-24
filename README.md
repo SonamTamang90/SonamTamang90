@@ -3,7 +3,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
 
 ### Connect with me:
 <p align="left" dir="auto">
-  <a href="[https://twitter.com/your-twitter-handle](https://x.com/SonamTamang90)" rel="nofollow">
+  <a href="https://x.com/SonamTamang90" rel="nofollow">
   <img alt="X (Twitter) followers" title="Follow on X (Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/your-twitter-handle?color=black&labelColor=141414&logo=x&logoColor=white&style=for-the-badge"/>
 </a>
       <a href="https://github.com/ForrestKnight?tab=followers">
