@@ -6,7 +6,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
 <a href="https://x.com/SonamTamang90" rel="nofollow">
   <img alt="X/Twitter" title="X/Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin-username" rel="nofollow">
+<a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/sonamtamang1/)" rel="nofollow">
   <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
    </p>
