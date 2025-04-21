@@ -20,6 +20,7 @@ I'm Sonam Tamang, a creative front-end developer focused on building engaging us
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30" alt="Sass"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30" alt="Tailwind CSS"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" alt="JavaScript"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" height="30" alt="Next.js"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="30" height="30" alt="Supabase"/>
